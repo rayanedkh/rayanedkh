@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayane !</h1>
-- 🎓 Computer Science and Applied Mathematics student at [**Télécom paris**](https://www.telecom-paris.fr/)
+- 🎓 Computer Science and Applied Mathematics student at [**Télécom paris**](https://www.telecom-paris.fr)
 
 - 🌱 I’m currently learning **Applied Mathematics and Data Science.**
 
